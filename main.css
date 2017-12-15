@@ -1,0 +1,36 @@
+body {
+  background-color: navy;
+  font-family: Courier New;
+  color: aqua;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-bottom: 70px;
+  line-height: 150%;
+}
+
+h1 {
+font-family: Helvetica;
+  font-size: 300%;
+  color: red;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-weight: 400;
+  font-size: 150%;
+  color: lime;
+}
+
+h5 {
+  font-family: Helvetica;
+  text-transform: uppercase;
+  font-weight: 100;
+  font-size: 90%;
+  line-height: 60%;
+  letter-spacing: 4px;
+  color: pink;
+}
+
+dl {
+  padding-left: 15px;
+}
